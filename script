@@ -1,0 +1,26 @@
+ident
+torus
+-60 -375 0 10 50
+rotate
+x 30
+rotate
+y -20
+move
+250 600 0
+apply
+ident
+sphere
+250 400 0 40
+line
+250 360 0 250 200 0
+line
+250 200 0 200 150 0
+line
+250 200 0 300 150 0
+line
+250 325 0 350 340 0
+line
+250 325 0 150 340 0
+display
+save
+hulahoop.png
